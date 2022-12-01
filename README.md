@@ -1,3 +1,3 @@
-# Python_Snake
+# Python Snake
 Python Snake
 
